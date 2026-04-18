@@ -1,5 +1,4 @@
-🌊 YOLO-MES
-An Effective Lightweight Underwater Garbage Detection Scheme for Marine Ecosystems
+🌊 Marine Environmental Monitoring Via Attention Enhanced Yolov10 For Debris Detection
 
 YOLO-MES is a lightweight deep learning–based underwater garbage detection framework designed for real-time marine debris monitoring in resource-constrained environments such as underwater robots, AUVs, and IoT-enabled marine systems.
 The model is built upon YOLOv10n and enhanced with marine-environment-specific optimizations to improve detection accuracy, robustness, and efficiency in underwater conditions.
@@ -95,8 +94,7 @@ Multi-scale training
 
 ⚙️ Installation
 # Clone repository
-git clone https://github.com/<your-username>/YOLO-MES.git
-cd YOLO-MES
+use git clone and repository link to clone
 
 # Create environment
 conda create -n yolomes python=3.10 -y
